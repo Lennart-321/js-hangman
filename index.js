@@ -1,10 +1,10 @@
 const parts = [
     document.getElementById("ground"),
-    document.getElementById("head"),
+    document.getElementById("scaffold"),
     document.getElementById("body"),
     document.getElementById("arms"),
     document.getElementById("legs"),
-    document.getElementById("scaffold"),
+    document.getElementById("head"),
 ];
 const usedLettersElem = document.getElementById("usedLetters");
 const lettersCont = document.getElementById("letters");
