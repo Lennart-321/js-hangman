@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+}
+#letters {
+    display: flex;
+    gap: 5px;
+}
+.letter {
+    width: 30px;
+    height: 25px;
+    font-size: 22px;
+    text-align: center;
+    background-color: blanchedalmond;
+    box-shadow: 1px 1px 4px 1px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+svg {
+    height: 400px;
+    width: 300px;
+    /* background-color: yellow; */
+    border: 1px solid #eee;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
